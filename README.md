@@ -8,3 +8,4 @@ Kod och data för kandidatarbete
 - `data-sorting/` - Innehåller kod och filer för att utföra vår extremvärdesanalys.
 
 ## License
+...
