@@ -2,6 +2,16 @@
  "cells": [
   {
    "cell_type": "code",
+   "execution_count": null,
+   "id": "20c7bb0b-09a9-4740-b08f-350f7da6100c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "library(extRemes)"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": 6,
    "id": "f728b85f-6459-4f09-ba9d-137eb518885a",
    "metadata": {},
