@@ -1,7 +1,7 @@
 # R Research Project
 
 ## Overview
-Code and Data for Bachelor Project Methodological choices in climate attribution.
+Code and Data for bachelor project Methodological choices in climate attribution.
 An investigation of the role of the choice of method in attribution studies, with
 focus on the extreme rain over Danish Esbjerg in 2024
 
