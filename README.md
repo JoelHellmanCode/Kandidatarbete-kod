@@ -10,4 +10,4 @@ focus on the extreme rain over Danish Esbjerg in 2024
 - R analysis/ - Contains code and files for performing our extreme value analysis.
 
 ## Usafe
-To run the code, download the folder you want to use and set your working directory to the path of the downloaded folder. In Python this is done using os.chdir("your/path") and in R using setwd("your/path").
+To run the code, download the folder you want to use and set your working directory to the path of the downloaded folder. In Python this is done using os.chdir("...") and in R using setwd("...").
