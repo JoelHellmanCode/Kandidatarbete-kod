@@ -7,5 +7,5 @@ Kod och data för kandidatarbete
 - `Python analysis/` - Innehåller kod och filer för att att skapa våran block-maxima stationsdata.
 - `R analysis/` - Innehåller kod och filer för att utföra vår extremvärdesanalys.
 
-## License
+## Användning
 ...
